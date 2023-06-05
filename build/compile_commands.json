@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net.se/vfb-s2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-s2.dir/vfb-s2.cpp.o -c /home/denis/vfb-net.se/vfb-s2/vfb-s2.cpp",
+  "file": "/home/denis/vfb-net.se/vfb-s2/vfb-s2.cpp"
+}
+]
